@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="#"><img src="https://github.com/SunScript-Unper/.github/assets/98248550/8556a07c-3790-4940-88a0-1696da7b7220" alt="Markdownify" width="200"></a>
+  <a href="#"><img src="https://github.com/SunScript-Unper/.github/assets/98248550/334508c5-b8c2-4997-add2-2e8c4e429d32" alt="Markdownify" width="200"></a>
   <br>
   Aksa
   <br>
@@ -8,7 +8,3 @@
 </h1>
 
 ## Aplikasi Scan Aksara Sunda
-
-
-
-
