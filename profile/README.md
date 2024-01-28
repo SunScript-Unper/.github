@@ -1,12 +1,14 @@
-## Hi there 👋
+<h1 align="center">
+  <br>
+  <a href="#"><img src="https://github.com/SunScript-Unper/.github/assets/98248550/8556a07c-3790-4940-88a0-1696da7b7220" alt="Markdownify" width="200"></a>
+  <br>
+  Aksa
+  <br>
+  "Aksara Sunda"
+</h1>
 
-<!--
+## Aplikasi Scan Aksara Sunda
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+
